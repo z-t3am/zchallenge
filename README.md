@@ -1,16 +1,14 @@
-# zchallenge
-Hahah its the zchallenge!
+<div align="center">
 
-------
+<a href="https://dsc.gg/z-team">
+  <img src="https://cdn.discordapp.com/attachments/1094733108647035030/1096215554437681213/wgd9em.png"/>
+</a>
 
 ## Credits
 
 **Credits on z-team!!!**
-_____
 
 If you have any question or want to share an improvement, you can join us on discord https://dsc.gg/z-team
-
-_____
 
 ## HELP
 
@@ -21,4 +19,8 @@ PASSWORD IS "pass123"
 **Have fun!**
 
 **z-team**
- _____
+<br/>
+  
+If you like this project give it a star ⭐
+
+</div>
